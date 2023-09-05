@@ -1,6 +1,6 @@
 # GitChat
 
-A chatting service on GitHub! Chat through Pull requests, I can delete any chat though, so don't say anything that violates these rules:
+A chatting service on GitHub! Chat through the Issue's tab, I can delete any chat though, so don't say anything that violates these rules:
 
 # Rules
 Q: What if I violate the rules?
