@@ -16,4 +16,4 @@ III. Don't pirate software to other's, unless you want to get banned.
 
 IIII. If you somehow do a dangerous explosion on GitChat, prepare for a ban too.
 
-V.  
+V. Copyrighting is bad! Don't post copyrighted content without the owner's permission first! unless you want to get banned.
